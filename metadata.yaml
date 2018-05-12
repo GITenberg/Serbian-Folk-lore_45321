@@ -1,0 +1,39 @@
+_repo: Serbian-Folk-lore_45321
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Denton, W. (William)
+    alias: Denton, William
+    birthdate: 1815
+    deathdate: 1888
+    gutenberg_agent_id: '43217'
+    url: http://www.gutenberg.org/2009/agents/43217
+  translator:
+    agent_name: Mijatovich, Elodie Lawton
+    aliases:
+    - Lawton, Elodie
+    - Mijatovics, Elodie Lawton
+    - Mijatovies, Csedomille (Elodie Lawton), Madame
+    birthdate: 1825
+    deathdate: 1908
+    gutenberg_agent_id: '43218'
+    url: http://www.gutenberg.org/2009/agents/43218
+covers:
+- cover_type: archival
+  image_path: 45321-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45321'
+  lccn: '11032689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Serbia'
+- !lcsh 'Folklore -- Serbia'
+- !lcc 'GR'
+title: Serbian Folk-lore
+url: http://www.gutenberg.org/ebooks/45321
