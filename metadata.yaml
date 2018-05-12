@@ -22,6 +22,8 @@ covers:
 - cover_type: archival
   image_path: 45321-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45321#Serbian-Folk-lore
 gutenberg_issued: '2014-04-05'
 gutenberg_type: Text
 identifiers:
